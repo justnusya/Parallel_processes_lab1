@@ -1,0 +1,8 @@
+*.jar
+*.class
+bin/
+out/
+.kotlin/
+.vscode/
+Thumbs.db
+.DS_Store
